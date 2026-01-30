@@ -9,10 +9,10 @@ https://leetcode.com/problems/two-sum/
 
 https://leetcode.com/problems/top-k-frequent-elements/description/
 
-https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150
-
 https://leetcode.com/problems/product-of-array-except-self/
 
 https://leetcode.com/problems/valid-sudoku/
 
-https://neetcode.io/problems/longest-consecutive-sequence/question?list=neetcode150
+https://leetcode.com/problems/longest-consecutive-sequence/description/
+
+https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150
