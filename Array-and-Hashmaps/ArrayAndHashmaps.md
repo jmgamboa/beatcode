@@ -10,11 +10,16 @@ https://leetcode.com/problems/running-sum-of-1d-array/description/
 
 ## Medium
 
+### Top K Frequent Elements
 https://leetcode.com/problems/top-k-frequent-elements/description/
 
+### Longest consecutive sequence
 https://leetcode.com/problems/longest-consecutive-sequence/description/
+
+### Valid Sudoku
 https://leetcode.com/problems/valid-sudoku/
 
+### Product of array except self
 https://leetcode.com/problems/product-of-array-except-self/
 <!-- Prerequisites -->
 - https://leetcode.com/problems/running-sum-of-1d-array/submissions/1903688166/
