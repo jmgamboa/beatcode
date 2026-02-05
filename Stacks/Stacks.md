@@ -21,17 +21,20 @@ https://leetcode.com/problems/min-stack/description/
 ### Evaluate reverse polish notation
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
+### Asteroid Collision (added)
+https://leetcode.com/problems/asteroid-collision/
+
 ### Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/
 
 ### Decode String (added)
 https://leetcode.com/problems/decode-string/description/ 
 
-### Car Fleet
-https://leetcode.com/problems/car-fleet/
-
 ### Simplify Path (added)
 https://leetcode.com/problems/simplify-path/description/
+
+### Car Fleet
+https://leetcode.com/problems/car-fleet/
 
 ## Hard
 
