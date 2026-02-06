@@ -10,6 +10,9 @@ https://leetcode.com/problems/running-sum-of-1d-array/description/
 
 ## Medium
 
+### Minimum Changes to Make 2 strings anagram
+https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+
 ### Top K Frequent Elements
 https://leetcode.com/problems/top-k-frequent-elements/description/
 
