@@ -22,6 +22,14 @@ https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 ### Maximum subarray
 https://leetcode.com/problems/maximum-subarray/description/
 
+### Longest substring repeating characters
+https://leetcode.com/problems/longest-repeating-character-replacement/
+
+### Permutation in string
+https://leetcode.com/problems/permutation-in-string/description/
+
+<!-- Expedited -->
+
 ### Find all anagrams in a string (added)
 https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
@@ -31,11 +39,8 @@ https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/de
 ### Longest substring without repeating characters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
-### Logest substring repeating characters
-https://leetcode.com/problems/longest-repeating-character-replacement/
-
 
 ### Hard
 https://leetcode.com/problems/minimum-window-substring/description/
 
-https://neetcode.io/problems/sliding-window-maximum/question?list=neetcode150
+https://leetcode.com/problems/sliding-window-maximum/description/

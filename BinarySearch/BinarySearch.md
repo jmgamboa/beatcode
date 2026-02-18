@@ -21,6 +21,9 @@ https://leetcode.com/problems/kth-missing-positive-number/description/
 ### Search a 2d matrix
 https://leetcode.com/problems/search-a-2d-matrix/description/
 
+### Kth Smallest
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ (hi)
+
 ### Search in rotated sorted array
 https://leetcode.com/problems/search-in-rotated-sorted-array/
 
