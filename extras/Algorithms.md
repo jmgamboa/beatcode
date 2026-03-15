@@ -13,3 +13,6 @@
 - **Kadane’s algorithm** — Computes maximum-sum contiguous subarray in O(n) using a running best ending-here vs global best. **Example:** For `[-2,1,-3,4,-1,2,1,-5,4]`, it returns `6` from subarray `[4,-1,2,1]`.
 
 - **Floyd’s algorithm (Floyd–Warshall)** — All-pairs shortest paths via dynamic programming, trying each node as an intermediate (handles negative edges, not negative cycles). **Example:** With adjacency matrix `dist`, update `dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j])` for all `k`, yielding shortest paths between every pair.
+
+- **Floyd's Cycle Detection** -  the "Tortoise and Hare Algorithm," is an efficient, 
+ time and space algorithm used to detect cycles in a linked list or sequence. It uses two pointers, one slow (moves 1 step) and one fast (2 steps), that meet if a loop exists, or end at null if not
