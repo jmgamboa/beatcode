@@ -14,8 +14,10 @@ https://leetcode.com/problems/squares-of-a-sorted-array/description/
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
 https://leetcode.com/problems/merge-sorted-array/description/ 
-	
+
 https://leetcode.com/problems/valid-palindrome-ii/ (added)
+
+https://leetcode.com/problems/duplicate-zeros/description/ (added, ?)
 
 ## Medium
 Ordered from easiest to hardest
@@ -30,12 +32,12 @@ https://leetcode.com/problems/3sum/description/
 
 https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/
 
-<!-- Reinforced Medium Concepts -->
-https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
-
-<!-- Harder Medium -->
 https://leetcode.com/problems/longest-palindromic-substring/description/
 
+<!-- Pre req do palindrome from middle -->
+
+<!-- Reinforced Medium Concepts -->
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 
 ## Hard
 

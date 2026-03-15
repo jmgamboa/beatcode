@@ -50,3 +50,7 @@ https://leetcode.com/problems/cheapest-flights-within-k-stops/?utm_source=chatgp
 
 ### Greedy Manhattan
 https://chatgpt.com/c/698d5747-b064-8328-9f1d-591c8bbc943b
+
+
+### Max fruits harvested after at most K steps
+https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/

@@ -23,13 +23,15 @@ You should be comfortable with:
 
 ## 🧩 Curriculum (Recommended Order)
 - 🗂️ Arrays and Hashmaps
+- 🧺 Hashing & Frequency Maps  
 - 🔁 Two Pointers  
 - 🧱 Stack (Monotonic + classic)  
+- 🔍 Binary Search
 - 🪟 Sliding Window  
 - 🌳 Trees (DFS/BFS basics)  
-- 🧺 Hashing & Frequency Maps  
-- 🔍 Binary Search
-- 🧵 Backtracking (subsets/permutations)  
+- 🔌 Heaps
+- 🧵 Backtracking (recursive/subsets/permutations)
+- 📊 Graphs
 - 🧠 Dynamic Programming
 
 ---

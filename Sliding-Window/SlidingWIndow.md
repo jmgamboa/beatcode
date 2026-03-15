@@ -10,6 +10,7 @@ https://leetcode.com/problems/defuse-the-bomb/description/ (-)
 (added)
 https://leetcode.com/problems/contains-duplicate-ii/description/
 
+
 ## Medium
 Ordered from easiest to hardest
 
@@ -20,9 +21,9 @@ https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater
 https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
 ### Maximum subarray
-https://leetcode.com/problems/maximum-subarray/description/ (X non-sliding window1)
+	 (X non-sliding window1)
 
-### Longest repeating character replacement
+### Longest repeating character replacement (hard)
 https://leetcode.com/problems/longest-repeating-character-replacement/
 
 ### Permutation in string

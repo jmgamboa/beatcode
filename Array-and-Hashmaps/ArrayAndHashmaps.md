@@ -17,6 +17,8 @@ https://leetcode.com/problems/longest-common-prefix/
 <!-- reinforced -->
 https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 
+https://leetcode.com/problems/alternating-groups-i/
+
 
 ## Medium
 Ordered from easiest to hardest

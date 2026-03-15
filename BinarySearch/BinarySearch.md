@@ -11,6 +11,9 @@ https://leetcode.com/problems/search-insert-position/description/
 ## Sqrt(x) (added)
 https://leetcode.com/problems/sqrtx/description/
 
+## First bad version
+https://leetcode.com/problems/first-bad-version/
+
 ### Kth missing positive number
 (added, not easy skip for now)
 https://leetcode.com/problems/kth-missing-positive-number/description/

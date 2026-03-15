@@ -9,6 +9,9 @@ https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 ## Peralta 75
 https://jamesperalta.com/peralta75
 
+## Grind 75
+https://www.techinterviewhandbook.org/grind75/
+
 # Other
 
 ## Pattern recognition flow chart
