@@ -25,7 +25,9 @@ https://leetcode.com/problems/find-the-duplicate-number/description/
 
 https://leetcode.com/problems/copy-list-with-random-pointer/
 
-https://leetcode.com/problems/lru-cache/description/
+https://leetcode.com/problems/lru-cache/description/ (pareto)
+
+https://leetcode.com/problems/find-the-duplicate-number/
 
 ## Hard
 https://leetcode.com/problems/merge-k-sorted-lists/
