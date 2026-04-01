@@ -39,6 +39,9 @@ https://leetcode.com/problems/car-fleet/
 ### Minimum to remove parenthesis
 https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 
+### Max subarray min product
+https://leetcode.com/problems/maximum-subarray-min-product/description/
+
 ## Hard
 
 ### Largest rectangle in histogram

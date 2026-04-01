@@ -1,3 +1,11 @@
+# do these / test on these
+https://leetcode.com/problems/non-decreasing-array/description/
+
+https://leetcode.com/problems/nth-digit/
+
+### two pointers
+https://leetcode.com/problems/reverse-string-prefix/
+
 <!-- TODO categorize these -->
 ## Categorize these
 
@@ -54,3 +62,10 @@ https://chatgpt.com/c/698d5747-b064-8328-9f1d-591c8bbc943b
 
 ### Max fruits harvested after at most K steps
 https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/
+
+
+### Build intuition for min spanning trees. Network delay. Union Find
+https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/
+
+
+

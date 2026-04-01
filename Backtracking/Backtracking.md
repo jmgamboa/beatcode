@@ -7,19 +7,19 @@ https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
 
 ## Medium
 
-### Subsets
+### Subsets *
 https://leetcode.com/problems/subsets/
 
-### Letter combination of a Phone
+### Letter combination of a Phone *
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
-### Permutations
-https://leetcode.com/problems/permutations/
-
-### Generate Parenthesis
+### Generate Parenthesis *
 https://leetcode.com/problems/generate-parentheses/
 
-### Combination Sum
+### Permutations *
+https://leetcode.com/problems/permutations/ 
+
+### Combination Sum *
 https://leetcode.com/problems/combination-sum/
 
 ### Subsets II
@@ -31,7 +31,7 @@ https://leetcode.com/problems/combination-sum-ii/
 ### Palindrome Partitioning
 https://leetcode.com/problems/palindrome-partitioning/description/
 
-### Wordsearch
+### Wordsearch *
 https://leetcode.com/problems/word-search/description/
 
 ## Hard

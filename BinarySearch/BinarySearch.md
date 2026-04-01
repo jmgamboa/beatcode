@@ -42,11 +42,17 @@ https://leetcode.com/problems/koko-eating-bananas/
 ### Time based key value store
 https://leetcode.com/problems/time-based-key-value-store/description/
 
-<!-- Reinforced -->
+## Medium (reinforced)
 <!-- chatgpt better explanation on this than neetcode
 | -->
+## Successful pairs of spells and potions
+https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+
 ### Single element in sorted array
 https://leetcode.com/problems/single-element-in-a-sorted-array/ 
+
+### Friend request
+https://leetcode.com/problems/friends-of-appropriate-ages/
 
 ## Hard
 
