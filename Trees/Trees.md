@@ -29,7 +29,6 @@ https://leetcode.com/problems/validate-binary-search-tree/
 
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
-n
 ## Hard
 https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
